@@ -21,5 +21,5 @@
 `pip install torch`
 
 ### Contribution to Project
-- Kevin Onyancha 50% contributed to creating the UI and the server
-- Peris Odhiambo 50% contributed to creating and fine-tuning the model
+- Kevin Onyancha - 50% contributed to creating the UI and the server
+- Peris Odhiambo - 50% contributed to creating and fine-tuning the model
