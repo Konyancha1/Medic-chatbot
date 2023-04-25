@@ -20,6 +20,6 @@
 `pip install transformers`
 `pip install torch`
 
-### Authors
-- Kevin Onyancha
-- Peris Odhiambo
+### Contribution to Project
+- Kevin Onyancha 50% contributed to creating the UI and the server
+- Peris Odhiambo 50% contributed to creating and fine-tuning the model
