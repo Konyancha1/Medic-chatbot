@@ -20,17 +20,16 @@ function Chatbot() {
   
 
   return (
-    <div>
-      <div>
-        {messages.map((message, index) => (
-          <div key={index} className={message.isBot ? 'bot-message' : 'user-message'}>
-            <p>{message.text}</p>
-          </div>
-        ))}
-      </div>
-      <input type='text' value={input} onChange={handleInput} onKeyDown={handleKeyDown} />
+    <div className="container">
+      {messages.map((message, index) => (
+        <div key={index} className={message.isBot ? 'bot-message message' : 'user-message message'}>
+          <p>{message.text}</p>
+        </div>
+      ))}
+      <input type='text' value={input} onChange={handleInput} onKeyDown={handleKeyDown} placeholder="Type a message"/>
     </div>
   );
 }
+
 
 export default Chatbot;
