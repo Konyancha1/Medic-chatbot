@@ -2,7 +2,7 @@
 
 ## To get started:
 - Find the preprocessed training data here: https://drive.google.com/drive/folders/1PllXiASYnhTkhrcsLGLq6N3vDdX1OXEl?usp=sharing
-- Find the model file here: https://colab.research.google.com/drive/1oz2HHxtF_pfX5xvJZ1SdbrVsIvLvDkFB?usp=sharing. 
+- Find the model file here: https://colab.research.google.com/drive/197QTXPNIAYQ9-I9ZPToFuqWxsewUjHmX?usp=sharing. 
 - This will be used to generate the 'model.pth' file in the server.py file
 
 ## Here is the link to the video: 
