@@ -6,6 +6,15 @@
 
 ### Link to deployment: https://medic-chatbot.onrender.com/
 
+### Sample questions to run
+- is abortion pill safe
+- main treatments for ectopic pregnancy
+- trying for another baby
+- chances of having another ectopic pregnancy
+- why a woman has an ectopic pregnancy
+- symptoms can be a combination of
+- any long-term emotional problems after an abortion
+
 ### Running the file locally
 - Clone this repository
 - Download the training data file and place in the same directory as the cloned file
