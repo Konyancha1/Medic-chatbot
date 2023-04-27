@@ -12,5 +12,5 @@
 - Run  `python chatbot.py`
 
 ## Authors
-- Kevin Onyancha - 505 worked on the model and the deployment
+- Kevin Onyancha - 50% worked on the model and the deployment
 - Peris Odhiambo - 50% worked on the model and fine-tuning it
