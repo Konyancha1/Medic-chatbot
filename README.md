@@ -1,10 +1,10 @@
 # Medic-chatbot
 
-## Link to training data: 
+## Link to training data: https://drive.google.com/drive/folders/1PllXiASYnhTkhrcsLGLq6N3vDdX1OXEl?usp=sharing
 
 ## Link to video recording:
 
-## Link to deployment:
+## Link to deployment: https://medic-chatbot.onrender.com/
 
 ## Running the file locally
 - Clone this repository
