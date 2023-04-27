@@ -2,23 +2,15 @@
 
 ## To get started:
 - Find the preprocessed training data here: https://drive.google.com/drive/folders/1PllXiASYnhTkhrcsLGLq6N3vDdX1OXEl?usp=sharing
-- Find the model file here: https://colab.research.google.com/drive/1oz2HHxtF_pfX5xvJZ1SdbrVsIvLvDkFB?usp=sharing. 
-- This will be used to generate the 'model.pth' file in the server.py file
 
 ## Here is the link to the video: 
 
 ## Try out the chatbot here: 
 
 ## To run it locally:
-- Run the model file and generate the model.pth file.
 - Clone this repository to your local environment
-- Download and add the model.pth file to the main directory
-- To run the UI run `npm run start`
-- Then run the python file server.py to start the flask server
-
-## Requirements
-`pip install transformers`
-`pip install torch`
+- Download the training data and have in the same directory as the cloned repositiory
+- Then run the python file chatbot.py
 
 ### Contribution to Project
 - Kevin Onyancha - 50% contributed to creating the UI and the server
