@@ -2,7 +2,7 @@
 
 ### Link to training data: https://drive.google.com/drive/folders/1PllXiASYnhTkhrcsLGLq6N3vDdX1OXEl?usp=sharing
 
-### Link to video recording:
+### Link to video recording: https://www.loom.com/share/e94c907a5d4d48e5bf28733a30c8d810
 
 ### Link to deployment: https://medic-chatbot.onrender.com/
 
